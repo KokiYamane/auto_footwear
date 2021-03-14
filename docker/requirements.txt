@@ -1,0 +1,10 @@
+autopep8
+numpy
+matplotlib
+pandas
+scikit-learn
+pyrealsense2
+opencv-python
+open3d
+seaborn
+numpy-stl
